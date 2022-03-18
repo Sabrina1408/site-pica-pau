@@ -7,7 +7,7 @@
 </ul>
 <h1>Status</h1>
 <ul>
-  <li>Finalizado.</li>
+  <li>Em desenvolvimento.</li>
 </ul>
 <h1>Aprendizado</h1>
 <ul>
