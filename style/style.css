@@ -235,3 +235,8 @@ iframe {
         margin: auto;
     }
 }
+@media (max-width: 590px) {
+    #imagens {
+        display: block;
+    }
+}

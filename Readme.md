@@ -7,7 +7,7 @@
     <a href="https://sabrinaalvesbrito.com.br" target="_blank">Meu portfólio</a>
   </li>
 </ul>
-<h2>👽 Status - Cancelado</h2>
+<h2>👽 Status - Finalizado</h2>
 <h2>🧐 Aprendizado</h2>
 <ul>
   <li>Variáveis no CSS.</li>
